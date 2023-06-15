@@ -1,2 +1,2 @@
 # DSA_Problem_Solving
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+DSA Problem Solving in LeetCode, Geeks For Geeks and CodeStudio_
