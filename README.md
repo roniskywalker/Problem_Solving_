@@ -1,2 +1,2 @@
-# DSA_Problem_Solving
-DSA Problem Solving in LeetCode, Geeks For Geeks and CodeStudio_
+# Problem_Solving
+Problem Solving in LeetCode, Geeks For Geeks and CodeStudio_
