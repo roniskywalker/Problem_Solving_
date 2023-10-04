@@ -1,2 +1,2 @@
 # Problem_Solving_
-Problem Solving in LeetCode, Geeks For Geeks and CodeStudio_
+Problem Solving in LeetCode, GeeksForGeeks and CodeStudio_
